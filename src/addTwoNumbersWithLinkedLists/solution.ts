@@ -16,7 +16,7 @@ function add(
 
     const sum = notNullList1.data + notNullList2.data + prevCarry;
     const value = sum % 10;
-    // TODO find more convenient way for finding carry of sum
+    // TODO find more convenient way for finding sum carry
     const carry = parseInt('' + sum / 10);
 
     return new LinkedList(value, add(notNullList1.next, notNullList2.next, carry));
