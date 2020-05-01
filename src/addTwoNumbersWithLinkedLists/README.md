@@ -9,6 +9,9 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 ```
 
+Useful resource:
+* https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
+
 Solution:
 ```shell script
 npx ts-node src/addTwoNumbersWithLinkedLists/solution.ts

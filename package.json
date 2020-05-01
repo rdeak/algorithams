@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rdeak/algorithams.git"
+    "url": "git+https://github.com/rdeak/algorithms.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rdeak/algorithams/issues"
+    "url": "https://github.com/rdeak/algorithms"
   },
-  "homepage": "https://github.com/rdeak/algorithams#readme",
+  "homepage": "https://github.com/rdeak/algorithms#readme",
   "devDependencies": {
     "ts-node": "8.9.1",
     "typescript": "3.8.3"
